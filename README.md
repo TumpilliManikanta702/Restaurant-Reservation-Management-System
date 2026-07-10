@@ -6,8 +6,8 @@ A full-stack MERN application for managing restaurant reservations with role-bas
 
 ## 🚀 Live Demo
 
-> **Frontend:** _[Add Vercel URL after deployment]_
-> **Backend API:** _[Add Render URL after deployment]_
+> **Frontend:** _ (https://restaurant-reservation-management-s-mu.vercel.app/login)
+> **Backend API:** _ (https://restaurant-reservation-management-system-uh92.onrender.com)
 
 ---
 
